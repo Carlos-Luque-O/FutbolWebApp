@@ -1,0 +1,8 @@
+﻿Programs/*
+!Programs/*.cfg
+*.dbg
+*.pkd
+*.pdp
+*.err
+*.prn
+*.lock
