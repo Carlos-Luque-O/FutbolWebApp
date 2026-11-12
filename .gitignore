@@ -6,3 +6,5 @@
 *.err
 *.prn
 *.lock
+
+*.loc
